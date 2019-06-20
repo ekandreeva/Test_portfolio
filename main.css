@@ -32,7 +32,7 @@ body {
 }
 
 .two_section img {
-    max-height: 200px;
+    max-height: 300px;
 }
 
 #featured_work {
@@ -53,6 +53,9 @@ body {
   margin: 10px;
 }
 
+.three_section a {
+  color:#2d3c49;
+}
 @media (max-width: 800px ) {
 .three_section {
   justify-content: space-around;
